@@ -237,4 +237,4 @@ Devin，MiniMax 解决方案架构师，嘉宾介绍：
 
 | 合照 |    海报     |
 | --- | ----------- |
-| - | <img width="400"  src="./assets/agie-5.jpg"/> |
+| <img src="./assets/agie-photo-5.jpg"/> | <img width="400" src="./assets/agie-5.jpg"/> |
