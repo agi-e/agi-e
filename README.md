@@ -265,3 +265,24 @@ Devin，MiniMax 解决方案架构师，嘉宾介绍：
 | 合照 |    海报     |
 | --- | ----------- |
 | <img src="./assets/agie-photo-6.jpg"/> | <img width="400"  src="./assets/agie-6.jpg"/> |
+
+### 「AGI 探索营」第七期
+
+- 主持人：吴亚昆
+- 活动页：https://tgo.infoq.cn/event/
+
+```
+⏰ 时间：2025 年 03 月 15 日 (周六) 14:00-17:40
+📍 地址：深圳市南山区前海周大福金融大厦
+
+📝 议程：
+14:00-14:30 签到
+14:30-15:30 《AI 编程全球发展与趋势》 李亚飞 至简天成科技 CEO、Clacky.AI 创始人
+15:30-16:30 《OpenManus 技术分享》 洪思睿 DeepWisdom 算法/技术负责人
+16:30-16:45 合影留念&茶歇短休
+16:45-17:40 AI Coding 实操、现场答疑
+```
+
+| 合照 |    海报     |
+| --- | ----------- |
+| <img src="./assets/agie-photo-7.jpg"/> | <img width="400"  src="./assets/agie-7.jpg"/> |
